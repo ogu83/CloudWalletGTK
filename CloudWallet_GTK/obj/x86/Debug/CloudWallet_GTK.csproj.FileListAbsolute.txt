@@ -1,0 +1,5 @@
+/home/oguz/projects/CloudWallet_GTK/CloudWallet_GTK/obj/x86/Debug/CloudWallet_GTK.csprojAssemblyReference.cache
+/home/oguz/projects/CloudWallet_GTK/CloudWallet_GTK/bin/Debug/CloudWallet_GTK.exe
+/home/oguz/projects/CloudWallet_GTK/CloudWallet_GTK/bin/Debug/CloudWallet_GTK.pdb
+/home/oguz/projects/CloudWallet_GTK/CloudWallet_GTK/obj/x86/Debug/CloudWallet_GTK.exe
+/home/oguz/projects/CloudWallet_GTK/CloudWallet_GTK/obj/x86/Debug/CloudWallet_GTK.pdb
